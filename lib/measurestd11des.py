@@ -3,11 +3,11 @@ Thermaltest first written at 8 July 2024, last updated 10 Dec 2025
 compiled with headache by Asep Yudi asepyudi2016@gmail.com
 
 HARDWARE;
-esp32wroom, sensor 4 ds18b20, nextion intellegent 4.3", pcb,
+esp32wroom, sensor 6 ds18b20, nextion intellegent 4.3", pcb,
 micro sd card & shield, battery and charger + step up, pin headers,
 JST 2.54 4/3/2pins & DC connectors, cables, soldering % tin
 SOFTWARE;
-Nextion IDE, Thonny IDE, Python - micropython, google email
+Nextion IDE, Thonny IDE, Python - micropython, google email, github
 LIBRARY;
 machine, os, nextion, ds18x20, onewire, sdcard, umail, ssl (renamed to ussl)
 network, time, ntptime
